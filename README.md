@@ -1,1 +1,1 @@
-This is a simple HTML form that collects user details like name, password, age, email, phone, and country. It includes basic styling, image display, and input validation using appropriate input types.
+This is a simple HTML and CSS form that collects user details like name, password, age, email, phone, and country. It includes basic styling, image display, and input validation using appropriate input types.
